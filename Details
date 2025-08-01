@@ -1,16 +1,16 @@
 {
   "Detail": [
     {
-      "Texture Name": "Teak Wood",
-      "Texture Brand": "Wood",
-      "Texture URL": "https://as2.ftcdn.net/v2/jpg/04/17/86/39/1000_F_417863966_iTcNR6ZMzQubS9YENXdB4q1S82dDdwSC.jpg",
-      "Texture Price": "19,999"
+      "Texture_Name": "Teak Wood",
+      "Texture_Brand": "Wood",
+      "Texture_URL": "https://as2.ftcdn.net/v2/jpg/04/17/86/39/1000_F_417863966_iTcNR6ZMzQubS9YENXdB4q1S82dDdwSC.jpg",
+      "Texture_Price": "19,999"
     },
     {
-      "Texture Name": "Teak Wood",
-      "Texture Brand": "Wood",
-      "Texture URL": "https://as2.ftcdn.net/v2/jpg/04/17/86/39/1000_F_417863966_iTcNR6ZMzQubS9YENXdB4q1S82dDdwSC.jpg",
-      "Texture Price": "19,999"
+      "Texture_Name": "Teak Wood",
+      "Texture_Brand": "Wood",
+      "Texture_URL": "https://as2.ftcdn.net/v2/jpg/04/17/86/39/1000_F_417863966_iTcNR6ZMzQubS9YENXdB4q1S82dDdwSC.jpg",
+      "Texture_Price": "19,999"
     }
   ]
 }

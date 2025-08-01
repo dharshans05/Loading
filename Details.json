@@ -1,16 +1,22 @@
 {
   "Detail": [
     {
-      "Texture_Name": "Teak Wood",
+      "Texture_Name": "Lime Wood",
       "Texture_Brand": "Wood",
-      "Texture_URL": "https://as2.ftcdn.net/v2/jpg/04/17/86/39/1000_F_417863966_iTcNR6ZMzQubS9YENXdB4q1S82dDdwSC.jpg",
+      "Texture_URL": "https://woodcut.com.au/wp-content/uploads/2020/02/Antique-Smoked-_-Lime.jpg",
       "Texture_Price": "19,999"
     },
     {
       "Texture_Name": "Teak Wood",
       "Texture_Brand": "Wood",
       "Texture_URL": "https://as2.ftcdn.net/v2/jpg/04/17/86/39/1000_F_417863966_iTcNR6ZMzQubS9YENXdB4q1S82dDdwSC.jpg",
-      "Texture_Price": "19,999"
+      "Texture_Price": "59,999"
+    },
+    {
+      "Texture_Name": "Forest Wood",
+      "Texture_Brand": "Wood",
+      "Texture_URL": "https://img.freepik.com/free-photo/relief-texture-oak-bark-panoramic-photo-wood-texture-sun-idea-banner-background_166373-2486.jpg?semt=ais_hybrid&w=740",
+      "Texture_Price": "1999"
     }
   ]
 }
